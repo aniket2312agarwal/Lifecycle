@@ -34,3 +34,8 @@ The lifecycle of an application in many cases, includes these phases:
     Each product type deployment has different attributes and specifications.
     
 5. Maintenance
+
+Maintenance is traditionally the longest stage of Application Lifecycle, but it is also the one where the participation of the testing and development teams is usually the lowest.
+    
+    If the work during the previous phases was done effectively then the amount of product maintenance will be significantly less. Basically the closer the system is to the actual needs of the user, and the more issues that were caught during the testing / development phases, the fewer problems we will see during the maintenance and roll-out processes. An important part of the maintenance phase is to define what is called retirement of the system which, basically is the time when users should stop working with the product and move either to a newer version or migrate to a different product altogether.
+
